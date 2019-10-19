@@ -71,7 +71,7 @@ RESPONSIVES
 
 @media (max-width: 768px) {
   .section-spacer {
-    padding: 80px 0;
+    padding: 20px 0;
   }
   .input-group {
     -webkit-box-orient: vertical;
